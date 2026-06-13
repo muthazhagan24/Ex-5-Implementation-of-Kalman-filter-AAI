@@ -2,7 +2,7 @@
 
 <H1 ALIGN=CENTER> Experiment-5: Implementation of Kalman filter </H1>
 
-### Name: SRI MUTHAZHAGAN P
+### Name: Sri muthazhagan P
 ### Register Number: 2305002024
 
 
